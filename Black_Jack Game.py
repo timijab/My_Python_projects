@@ -1,24 +1,5 @@
 import random
-############### Blackjack Project #####################
 
-#Difficulty Normal 😎: Use all Hints below to complete the project.
-#Difficulty Hard 🤔: Use only Hints 1, 2, 3 to complete the project.
-#Difficulty Extra Hard 😭: Only use Hints 1 & 2 to complete the project.
-#Difficulty Expert 🤯: Only use Hint 1 to complete the project.
-
-############### Our Blackjack House Rules #####################
-
-## The deck is unlimited in size.
-## There are no jokers.
-## The Jack/Queen/King all count as 10.
-## The the Ace can count as 11 or 1.
-## Use the following list as the deck of cards:
-##
-## The cards in the list have equal probability of being drawn.
-## Cards are not removed from the deck as they are drawn.
-## The computer is the dealer.
-
-##################### Hints #####################
 logo = print(""""__________.____       _____  _________  ____  __.      ____.  _____  _________  ____  __.
 \______   |    |     /  _  \ \_   ___ \|    |/ _|     |    | /  _  \ \_   ___ \|    |/ _|
  |    |  _|    |    /  /_\  \/    \  \/|      <       |    |/  /_\  \/    \  \/|      <  
